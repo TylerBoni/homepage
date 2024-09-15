@@ -10,9 +10,10 @@
   --fontFamily: 'Roboto Mono', monospace;
 }
 
-body {
+html,body {
   background-color: var(--bg);
   margin: 0px;
+  height: 100%;
 }
 
 .container {
