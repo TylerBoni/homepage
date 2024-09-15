@@ -2,6 +2,15 @@
 
 ![homepage](https://i.redd.it/cbnzq36zj3601.gif)
 
+## Welcome
+
+This static homepage is powered by a simple go server. I've included a Dockerfile and docker-compose file for easy deployment pretty much anywhere on the internet.
+
+
+## Usage
+
+Hit the spacebar to open up the search. Hit escape to exit search.
+
 ## Customization
 
 ### Customize Bookmarks
@@ -32,3 +41,5 @@ Styles are handled through CSS variables. To update the colors you just need to 
 | `--searchBg`       | `--containerBg`            | Defines the background color of the search overlay                                                                         |
 | `--scrollbarColor` | `#3f3f3f`                  | Defines the color of the custom scrollbars                                                                                 |
 | `--fontFamily`     | `"Roboto Mono", monospace` | Defines the font used. To change to a custom font you will also have to import that font from whatever source is available |
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/tylerboni)
